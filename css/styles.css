@@ -28,7 +28,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:#2e2f42;
 }
-.list.link:hover
+.list.link:hover,
 .list.link:focus {
     color: #404bbf;
 }
