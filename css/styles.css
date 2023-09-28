@@ -45,5 +45,8 @@ address{
 .menu.link:hover,
 .menu.link:focus {
     color: #404bbf;
-    
+
+}
+section{
+    background-color: #2e2f42;
 }
