@@ -6,7 +6,7 @@ body {
 :root{
     --brand-color:var(--brand-color)
 }
-logo { 
+.logo { 
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
