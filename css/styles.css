@@ -4,5 +4,5 @@ body {
     background-color: #FFFFFF;
 }
 :root{
-    
+    --brand-color:var(--brand-color)
 }
