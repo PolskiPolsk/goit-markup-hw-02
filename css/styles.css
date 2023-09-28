@@ -42,3 +42,7 @@ address{
         letter-spacing: 0.02em;
 
 }
+.menu.link:hover,
+.menu.link:focus {
+    color: #404bbf;
+}
