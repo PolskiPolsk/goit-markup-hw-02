@@ -35,3 +35,10 @@ color:#2e2f42;
 address{
     font-style: normal; 
 }
+.menu{
+    color: #434455;
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+
+}
