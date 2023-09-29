@@ -109,13 +109,9 @@ section{
     background-color: #F4F4FD;
     cursor: pointer;
 }
-.listfilters-list.button:hover{
+.listfilters-list.button:hover,
+.listfilters-list.button:focus{
     color: #FFFFFF;
-        color: #404bbf;
-
+        color: #FFFFFF;
 }
-.filter-button:focus{
-    color:#FFFFFF;
-    color:#404bbf;
 
-}
