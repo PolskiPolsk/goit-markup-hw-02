@@ -89,7 +89,7 @@ section{
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42
+    color: #2e2f42;
 }
 .sectionourteam{
     background-color: #F4F4FD;
@@ -99,6 +99,6 @@ section{
     background-color: #FFFFFF;
 }
 
-.button-two{
+.listbutton-list{
     font-family: "Roboto", sans-serif;
 }
