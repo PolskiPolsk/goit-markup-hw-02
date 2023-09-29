@@ -111,7 +111,7 @@ section{
 }
 .filter-button:hover,
 .filter-button:focus{
- color: #FFFFFF
-
+ color: #FFFFFF;
+color: #404bbf;
 }
 
