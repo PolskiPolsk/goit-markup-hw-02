@@ -66,7 +66,7 @@ section{
     letter-spacing: 0.04em;
     color: #ffffff;
 }
-.solution.link:hover,
-.solution.link:focus{
+.button.link:hover,
+.button.link:focus{
     color: #404bbf;
 }
