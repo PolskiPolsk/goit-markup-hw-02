@@ -109,8 +109,8 @@ section{
     background-color: #F4F4FD;
     cursor: pointer;
 }
-.filters-list.filter-button:hover,
-.filters-list.filter-button:focus{
+.filters-list.button:hover,
+.filters-list.button:focus{
     color: #FFFFFF;
 
 }
